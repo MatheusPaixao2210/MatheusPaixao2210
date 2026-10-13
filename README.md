@@ -1,16 +1,28 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/git-musgo.gif" alt="Matheus banner" width="100%">
+</p>
 
-<!--
-**MatheusPaixao2210/MatheusPaixao2210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+I study Engineering and Management of Information Systems at the University of Minho.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build software projects focused on software development, automation, artificial intelligence and practical tools.
+
+## What I work with
+
+- **Languages** C, Python and JavaScript
+- **Web** HTML, CSS and JavaScript
+- **Backend / Cloud** Firebase
+- **AI** Neural networks and machine learning experiments
+- **Tools** Git, GitHub and VS Code
+
+## Selected projects
+
+**VoxelWorks3D**  
+Cost calculation and job management platform for 3D printing.
+
+**Digit Recognizer**  
+Neural network for handwritten digit recognition.
+
+**C Projects**  
+University projects focused on programming fundamentals and algorithms.
