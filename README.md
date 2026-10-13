@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/git-musgo.gif" alt="Matheus banner" width="100%">
+  <img src="./git-musgo.gif" alt="Matheus banner" width="100%">
 </p>
 
 ---
